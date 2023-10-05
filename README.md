@@ -1,24 +1,12 @@
 # ANGULAR CRUD
 
 
-## Sumário
-
-- [Visão Geral](#visão-geral)
-- [Requisitos](#requisitos)
-- [Configuração do Ambiente](#configuração-do-ambiente)
-- [Executando o Projeto](#executando-o-projeto)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Principais Conceitos](#principais-conceitos)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Visão Geral
 
 Projeto desenvolvido durante o curso angular essencial da cod3r, curso esse que abrange todos os conceitos basicos do angular.
 
-## Requisitos
 
-[Liste aqui todos os requisitos necessários para rodar o seu projeto, como software, ferramentas ou dependências.]
 
 
 ## Principais Conceitos
