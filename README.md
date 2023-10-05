@@ -38,8 +38,7 @@ Projeto desenvolvido durante o curso angular essencial da cod3r, curso esse que 
 
 
 
-[Escolha uma licença para o seu projeto e inclua-a aqui. Isso ajuda a definir os termos sob os quais outras pessoas podem usar, modificar e distribuir seu código.]
+
 
 ---
 
-Sinta-se à vontade para personalizar este modelo de README de acordo com as necessidades específicas do seu projeto Angular. Certifique-se de incluir informações detalhadas para que os usuários e colaboradores possam entender e contribuir com o seu projeto com facilidade.
