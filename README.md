@@ -10,7 +10,7 @@ Projeto desenvolvido durante o curso angular essencial da cod3r, curso esse que 
 
 
 ## Principais Conceitos
-Alguns dos conceitos usados no projeto.
+
 
 - **Componentes**: 
 
