@@ -1,6 +1,6 @@
 # ANGULAR CRUD
 
-![Imagem](./img/Captura de tela 2023-10-05 173409.png)
+![Imagem](./img/imagem.png)
 
 ## Visão Geral
 
