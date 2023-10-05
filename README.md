@@ -22,8 +22,7 @@ Projeto desenvolvido durante o curso angular essencial da cod3r, curso esse que 
 
 
 ## Principais Conceitos
-
-[Aqui, você pode explicar os principais conceitos que foram aprendidos durante o curso Angular e aplicados neste projeto. Alguns exemplos de conceitos a serem explicados podem incluir:]
+Alguns dos conceitos usados no projeto.
 
 - **Componentes**: Descreva como os componentes são usados em seu projeto e seu papel na estrutura geral do aplicativo.
 
